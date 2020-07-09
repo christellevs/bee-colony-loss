@@ -5,7 +5,7 @@ Datasets used:
 https://data.world/finley/bee-colony-statistical-data-from-1987-2017/workspace/intro
 https://www.kaggle.com/kevinzmith/honey-with-neonic-pesticide
 
-Worked mainly in:
+Contributions:
 
   * Data processing
   * Data Analysis
