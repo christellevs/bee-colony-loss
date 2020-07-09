@@ -1,0 +1,50 @@
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/models.R')
+source('~/Desktop/pba_cw_v4/models.R')
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+return(na.omit(data.frame(read.csv(dataset_csv))))
+return(na.omit(data.frame(read.csv(dataset_csv), check.names = F)))
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+# Loading main pesticide dataset
+data_pesticides <- LoadDataset(DATASET_FILENAME_1, check.name=F)
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+# Loading main pesticide dataset
+data_pesticides <- LoadDataset(DATASET_FILENAME_1)
+data_bee_loss <- LoadDataset(DATASET_FILENAME_2, check.names=F)
+data_bee_loss <- LoadDataset(DATASET_FILENAME_2)
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+View(LoadDataset)
+View(LoadDataset)
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/models.R')
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+data_bee_loss <- LoadDataset(DATASET_FILENAME_2)
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+return(na.omit(data.frame(read.csv(dataset_csv), check.names = F)))
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+View(LoadDataset)
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+return(na.omit(data.frame(read.csv(dataset_csv, check.names = F))))
+LoadDataset <- function(dataset_csv) {
+return(na.omit(data.frame(read.csv(dataset_csv, check.names = F))))
+}
+RemoveNaRows <- function(dataset) {
+return(dataset[!apply(is.na(dataset) | dataset == "", 1, all),])
+}
+RenameColumn <- function(dataset, old_name, new_name) {
+names(dataset)[names(dataset) == old_name] <- new_name
+}
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/pba_cw.R')
+source('~/Desktop/pba_cw_v4/models.R')
+source('~/Desktop/pba_cw_v4/models.R')
