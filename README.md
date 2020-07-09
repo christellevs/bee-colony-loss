@@ -7,7 +7,7 @@ https://www.kaggle.com/kevinzmith/honey-with-neonic-pesticide
 
 Worked mainly in:
 
-Data processing
-Data Analysis
-SOM Modelling
-Data visualisation
+  * Data processing
+  * Data Analysis
+  * SOM Modelling
+  * Data visualisation
